@@ -5,7 +5,7 @@
 
 This plugin is provided for UniversalPay merchants using Virtuemart. 
 
-Got a question? Visit https://www.universalpay.es/contacto/ for support.
+Got a question? Visit https://www.universalpay.es/contacto/ or email integraciones_es@evopayments.com for support.
 
 ## Installation Guide
 
